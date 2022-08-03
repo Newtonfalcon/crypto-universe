@@ -1,0 +1,66 @@
+h1{ border-style: dotted;
+    text-align: center;
+font-size: 40px;
+background-color: whitesmoke;
+border-bottom: 0px;
+padding: -3px 0px, 0px, 0px;
+border-radius: 30px;}
+
+body {
+    background-image: url(../images.jpeg3.jpg);
+    background-size: 100%;
+    
+    text-size-adjust: 20%;
+    font-size: 20px;
+background-color: whitesmoke;}
+
+.navbar-brand{
+    font-size: 5px;
+    padding: 23px;
+    border-radius: 15px;
+    text-align: left;
+    background-color: goldenrod;
+    font-size: large;
+    text-decoration: none;
+    cursor: pointer;
+    margin-left: 90%;
+    margin-top: -10%;
+    text-transform: uppercase
+    
+
+}
+
+
+img{
+    padding:;
+    image: resolution 80px ;
+    opacity: 90%;
+    border-radius: 70px;
+
+    background-color: goldenrod;
+    text-overflow: none;
+    
+}
+
+{
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 20px;
+    background-color:white;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bolder;
+    text-emphasis-color: black;
+    margin-top: 0%;
+}
+p{
+    font-weight: bolder;
+    padding: 20px;
+    font-size: larger;
+    background: scroll;
+    background-color: wheat;
+    margin-right: 70%;
+    border-radius: 20px;
+    text-shadow: 5in
+    
+}
